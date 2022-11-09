@@ -31,4 +31,4 @@ This notebook is to compare forecasting performance between different aggregatio
 - 10 buildings
 - single building
 
-#### 3. [[Exercise with blanks] Comparison between aggregation levels](notebooks/)
+#### 3. [[Exercise] Comparison between aggregation levels](notebooks/)
